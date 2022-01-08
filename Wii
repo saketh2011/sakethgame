@@ -3,12 +3,14 @@
 <title>First Project</title>
 </head>
      <style>
-
+<body>
 #class {color:red;}
 
 
          </style>
 <h1>Wii Games</h1>
 <p>Wii Game popular thoughout the world<br></p>
-<ul><li id="class">Super Mario Galaxy(2)<li><li>Wii Sports(resorts)<li>Mario Kart<li>Super Smah Bros</ul>
+<ul><li id="class">Super Mario Galaxy(2)<li><li>Wii Sports(resorts)<li>Mario Kart<li>Super Smash Bros<li>Super Paper Mario<li>WarioWare</ul>
+<a href="https://en.wikipedia.org/wiki/Wii">Wii Link<a>
+     </body>
 </html>

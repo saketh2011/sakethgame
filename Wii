@@ -3,11 +3,12 @@
 <title>Wii</title>
 </head>
      <style>
-<body>
+
 #class {color:red;}
 
 
          </style>
+     <body>    
 <h1>Wii Games</h1>
 <p>Wii Game popular thoughout the world<br></p>
 <ul><li id="class">Super Mario Galaxy(2)<li><li>Wii Sports(resorts)<li>Mario Kart<li>Super Smash Bros<li>Super Paper Mario<li>WarioWare</ul>
